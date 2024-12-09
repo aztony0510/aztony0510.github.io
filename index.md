@@ -5,7 +5,6 @@ I am a Pre-Buisness major at CSUF and i plan to graduate $
 # Favorite CPSC120L Labs
 
 * Lab 1 part 1
-
 This was one of my favorite lab as it was just something to help us start 
 getting to know the process of how everything works and how the language 
 works it shows us how to start cloning things and throwing them into folders
