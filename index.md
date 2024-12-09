@@ -1,6 +1,6 @@
 # Anthony Zapata's Portfolio
 
-I am a Pre-Buisness major at CSUF and i plan to graduate $
+I am a Pre-Buisness major at CSUF and i plan to graduate in 2028
 
 # Favorite CPSC120L Labs
 
